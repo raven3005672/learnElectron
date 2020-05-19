@@ -1,0 +1,23 @@
+{
+  "name": "learnelectron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raven3005672/learnElectron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raven3005672/learnElectron/issues"
+  },
+  "homepage": "https://github.com/raven3005672/learnElectron#readme",
+  "dependencies": {
+    "electron": "^9.0.0"
+  }
+}
