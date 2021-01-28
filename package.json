@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/raven3005672/learnElectron#readme",
   "dependencies": {
-    "electron": "^9.0.0"
+    "electron": "^9.4.0"
   }
 }
